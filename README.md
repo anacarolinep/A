@@ -1,2 +1,2 @@
-# A
-Só teste
+# teste
+print('Ola,mundo')
